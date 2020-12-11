@@ -1,0 +1,17 @@
+----------
+
+Fri Dec 11 2020 14:21:55 GMT-0600 (Central Standard Time)
+
+To https://github.com/v-za/v-za.github.io.git
+   d75072c..8fb8918  master -> master
+
+
+----------
+
+Fri Dec 11 2020 14:22:05 GMT-0600 (Central Standard Time)
+
+To https://github.com/v-za/v-za.github.io.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at 8fb89189789d90bc7837f7e6ed307ad37165f0cf but expected d75072cb2ed8f60d00749ae7445cb7ad1d3783b5)
+error: failed to push some refs to 'https://github.com/v-za/v-za.github.io.git'
+
+
